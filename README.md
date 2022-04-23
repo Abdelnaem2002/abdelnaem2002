@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdelnaem Alaref</h1>
 <h3 align="center">Junior Data Analyst</h3>
 
+<br/>
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 - 🔭 I’m currently working on [traffic_violaions](https://github.com/Abdelnaem2002/traffic_violaions)
 
 - 🌱 I’m currently learning **Power Bi and Web Scraping**
