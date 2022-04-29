@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [traffic_violaions](https://github.com/Abdelnaem2002/traffic_violaions)
 
-- 🌱 I’m currently learning **Power Bi and Web Scraping**
+- 🌱 I’m currently learning **Power Bi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdelnaem2002](https://github.com/Abdelnaem2002)
 
