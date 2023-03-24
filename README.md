@@ -5,9 +5,9 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-- 🔭 I’m currently working on [traffic_violaions](https://github.com/Abdelnaem2002/traffic_violaions)
+- 🔭 I’m currently working on learning  [Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
-- 🌱 I’m currently learning **Power Bi**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdelnaem2002](https://github.com/Abdelnaem2002)
 
