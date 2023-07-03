@@ -38,11 +38,8 @@ No I am not done yet !
 
 The rest of my role is building charts and dashboards for our clients in
 
-<img src="images/tableau.png" alt="Tableau Logo" width="300" height="100">
+<img src="https://th.bing.com/th/id/R.0dcdd373243bd1c01e7b1efb17351ad1?rik=H7d3jF4pNlA9WA&pid=ImgRaw&r=0" alt="Tableau Logo" width="300" height="100">
 <br><br/>
-
-
-and
 
 <img src="https://th.bing.com/th/id/R.30e7eade96a7c12f85f3f552fcd4045c?rik=l6%2fYYPMYwyWVKg&pid=ImgRaw&r=0" alt="Metabase Logo" width="300" height="100">
 <br><br/>
