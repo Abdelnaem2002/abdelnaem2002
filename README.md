@@ -42,8 +42,7 @@ The rest of my role is building charts and dashboards for our clients in
 <br><br/>
 
 <img src="https://th.bing.com/th/id/R.30e7eade96a7c12f85f3f552fcd4045c?rik=l6%2fYYPMYwyWVKg&pid=ImgRaw&r=0" alt="Metabase Logo" width="300" height="100">
-<br><br/>
-
+<br>
 <br><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
