@@ -5,9 +5,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-- 🔭 I’m currently working on learning  [Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdelnaem2002](https://github.com/Abdelnaem2002)
 
@@ -23,6 +21,33 @@
 <img src="https://www.ancoris.com/hubfs/Partner%20logos/dbt%20transparent%20logo7.png" alt="dbt Logo" width="250" height="100">
 <br><br/>
 
+
+and fix any problems that may come up and investigate any broken assumptions.
+
+
+Speaking of Data Warehouses we previously used
+
+<img src="https://th.bing.com/th/id/R.28dbe7572811cb1cc6f38136cebda27c?rik=N7jRVMj%2bRX9K%2bw&pid=ImgRaw&r=0" alt="Redshift Logo" width="300" height="100">
+<br><br/>
+
+
+so I am experienced with that as well :)
+
+
+No I am not done yet !
+
+The rest of my role is building charts and dashboards for our clients in
+
+<img src="images/tableau.png" alt="Tableau Logo" width="300" height="100">
+<br><br/>
+
+
+and
+
+<img src="https://th.bing.com/th/id/R.30e7eade96a7c12f85f3f552fcd4045c?rik=l6%2fYYPMYwyWVKg&pid=ImgRaw&r=0" alt="Metabase Logo" width="300" height="100">
+<br><br/>
+
+<br><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdelnaem-alaref-404002190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelnaem-alaref" height="30" width="40" /></a>
