@@ -25,7 +25,7 @@
 and fix any problems that may come up and investigate any broken assumptions.
 
 
-Speaking of Data Warehouses we previously used
+Speaking of Data Warehouses I previously used
 
 <img src="https://th.bing.com/th/id/R.28dbe7572811cb1cc6f38136cebda27c?rik=N7jRVMj%2bRX9K%2bw&pid=ImgRaw&r=0" alt="Redshift Logo" width="300" height="100">
 <br><br/>
@@ -34,9 +34,9 @@ Speaking of Data Warehouses we previously used
 so I am experienced with that as well :)
 
 
-No I am not done yet !
+No, I am not done yet!
 
-The rest of my role is building charts and dashboards for our clients in
+The rest of my role is building charts and dashboards To help Business
 
 <img src="https://th.bing.com/th/id/R.0dcdd373243bd1c01e7b1efb17351ad1?rik=H7d3jF4pNlA9WA&pid=ImgRaw&r=0" alt="Tableau Logo" width="300" height="100">
 <br><br/>
