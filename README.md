@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelnaem Alaref</h1>
-<h3 align="center">Junior Data Analyst</h3>
+<h3 align="center">Junior Business Inteligence Analyst</h3>
 
 <br/>
 
