@@ -23,13 +23,9 @@
 
 After I grab my morning coffee , I start my work with the goal of building something like this :
 <br><br/>
-![Tableau Story](images/tableau_story.png)
-<br><br/>
 So I  checkout a branch and start writing SQL using
 <br><br/>
 
-<img src="images/dbt.png" alt="dbt Logo" width="250" height="100">
-<br><br/>
 
 that usually looks like :
 ```
