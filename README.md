@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelnaem Alaref</h1>
-<h3 align="center"> Business Intelligence Analyst / data science</h3>
+<h3 align="center"> Business Intelligence / data science</h3>
 
 <br/>
 
