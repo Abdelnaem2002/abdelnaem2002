@@ -112,6 +112,7 @@ The rest of my role is building charts and dashboards To help Business
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 <a href="" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/relational-database-icon/relational-database-icon-21.jpg" alt="Database" width="50" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.nuget.org/profiles/powerbi/avatar?imageSize=512" alt="Powerbi" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/13/88/5f/13885f590c6070c7f106b0f19a17ab9b.png" alt="Excel" width="40" height="40"/> </a>
