@@ -27,59 +27,6 @@ So I  checkout a branch and start writing SQL using
 <br><br/>
 
 
-that usually looks like :
-```
-{{
-  config(
-    alias='cool_data_mart_name',
-    materialized: table
-  )
-}}
-
-WITH fact_table AS (
-  SELECT * FROM {{ref('fact_table_name')}} WHERE [condition]
-  ),
-
-dimention_table_1 AS (
-  SELECT
-    {{ dbt_utils.star(
-        from=ref('dimention_table_1_name'),
-        except=[UNWANTED_COLUMN_NAMES],
-        , relation_alias='d1'
-        )}},
-   FROM
-      {{ref('dimention_table_1_name')}} AS d1
-   WHERE
-      [condition]
-  ),
-
-dimention_table_2 AS (
-  SELECT * FROM {{ref('dimention_table_2_name')}} WHERE [condition]
-  ),
-
-final AS (
-  SELECT
-    f.col1,
-    d1.*,
-    COALESCE(d2.col123, 'default_value') AS col123,
-    ROW_NUMBER() OVER( PARTITION BY id ORDER BY event_at DESC) AS deduplicate
-  FROM
-    fact_table AS f
-  INNER JOIN
-    dimention_table_1 AS d1
-  ON
-    f.foreign_1 = d1.primary
-  LEFT JOIN
-    dimention_table_2 AS d2
-  ON
-    f.foreign_2 = d2.primary
-  WHERE
-    [insert mart conditions]
-  QUALIFY
-   deduplicate = 1
-)
-SELECT * FROM final
-  ```
 
 
 
@@ -90,7 +37,7 @@ Speaking of Data Warehouses I previously used
 <br><br/>
 
 
-so I am experienced with that as well :)
+ط
 
 
 No, I am not done yet!
