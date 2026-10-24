@@ -1,22 +1,37 @@
-<h1 align="center">Hi 👋, I'm Abdelnaem Alaref</h1>
-<h3 align="center"> Business Intelligence Engineer </h3>
+# Hi 👋, I'm Abdelnaem Alaref
+
+<h3 align="center">Software Test Engineer | Manual Testing | API Testing</h3>
 
 <br/>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-- 🌱 I’m currently learning **SQL**
+- 🔍 I'm focused on **Software Testing and Quality Assurance (QA)**.
+- 🧪 Practicing **Manual Testing, Test Case Design, Bug Reporting, and Test Scenarios**.
+- 🔗 Learning and practicing **API Testing with Postman**.
+- 🌱 Currently improving my skills in **Software Testing, SQL, and Test Automation**.
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Abdelnaem2002).
+- 💬 Ask me about **Manual Testing, Test Cases, Bug Reports, and API Testing**.
+- 📫 How to reach me: **mhmwdalarf97@gmail.com**
+- ⚡ Fun fact: I enjoy finding bugs and helping build better software!
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdelnaem2002](https://github.com/Abdelnaem2002)
+<br/>
 
-- 💬 Ask me about **Data**
+**My Testing Toolkit**
 
-- 📫 How to reach me **mhmwdalarf97@gmail.com**
+- Manual Testing
+- Test Case Design & Execution
+- Bug Reporting & Defect Tracking
+- Functional & Regression Testing
+- API Testing — Postman
+- SQL Basics
+- Git & GitHub
 
-- ⚡ Fun fact: Marathon runner
+<br/>
 
-- So I  checkout a branch and start writing SQL using
-<br><br/>
+**Currently working on:** Improving my practical testing skills and building real-world QA projects.
+
+
 
 <img src="https://www.ancoris.com/hubfs/Partner%20logos/dbt%20transparent%20logo7.png" alt="dbt Logo" width="250" height="100">
 <br><br/>
